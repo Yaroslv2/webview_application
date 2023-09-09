@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Deadlift",
+        "description": "The deadlift is a weight training exercise in which a loaded barbell or bar is lifted off the ground to the level of the hips, torso perpendicular to the floor, before being placed back on the ground. It is one of the three powerlifting exercises, along with the squat and bench press,[1] as well as a frequent lift in strongman.",
+        "performing": "The conventional deadlift can be broken down into three parts: the setup, the initial pull or drive, and the lockout. Setup: When performing a deadlift, a lifter sets in a position that eccentrically loads the gluteus maximus, gluteus minimus, biceps femoris, semitendinosus and semimembranosus while the muscles of the lumbar contract isometrically in an effort to stabilize the spine.\n\n1. Set behind the bar with it nearly touching the legs (roughly 1 inch away from the shin), with feet turned slightly outwards.\n2. Begin by hinging at the hips and bending the knees, maintaining flat feet, let the shins move forward to touch the barbell but not push it away.\n3. Grip the bar outside of the legs, roughly at shoulder width. It helps with grip strength to grab the bar with one hand facing forwards and the other facing backwards.\n4. Raise the chest to position for a neutral spine, it is important to maintain a neutral spine throughout the lift.\n5. Pull the slack out of the barbell.\n\nDrive: The next section of the deadlift produces the greatest amount of force. By pushing down through their heels while simultaneously pushing up and forward with their hips and maintaining a depressed scapula and a long tense spine, an individual can remain safe during this motion. This is considered the most difficult part of the entire movement due to the amount of work required to drive the bar off the ground  initially.\nTake a deep diaphragmatic breath and hold it in during the movement, creating an outward pressure on the core to further stabilize the lumbopelvic hip complex and core throughout the motion.\nKeep the muscles of the back contracted tightly in order to maintain a neutral spine throughout the motion. Drive up and forward with the hips and legs to stand erect and lift the bar.\nLockout: The finish is the most critical aspect of the motion. This requires being totally erect with a neutral spine and forceful hip extension to engage the muscles of the lumbar spine and abdomen in unison with the glutes. Drive the hips completely into the bar.\nContract the glutei and the rectus abdominis to finish the movement with the pelvis in a neutral position. Contracting the glutes as well as the abdominal muscles is critical for lower back health and safety.\nLowering the weight: Performing the above steps in reverse order. As the muscles of the back and core must remain tight throughout the motion, one should simply hinge at the hips and knees to bring the weight down. Lowering the chest towards the knees while keeping the bar close is the safest way to complete the motion.",
+        "imageUrl": "assets/images/deadlift.jpg",
+        "muscleGroups": [
+            "gluteus maximus",
+            "quadriceps femoris",
+            "hamstrings",
+            "trapezius",
+            "lats",
+            "erector spinae"
+        ]
+    }
+]
